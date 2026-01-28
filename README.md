@@ -1,214 +1,127 @@
-## 📸 Screenshots – Zendesk Agent Workspace Project
+![Zendesk Agent Workspace](assets/zendesk-agent-workspace-header.png)
 
-This section documents a hands-on Zendesk Agent Workspace project using the **new Zendesk UI**.  
-Each screenshot clearly explains **what was done**, **why it matters**, and **what skill it demonstrates**, written for recruiters and hiring managers.
+# Zendesk Agent Workspace – Hands-On Support Project
+
+This project demonstrates hands-on experience using **Zendesk Agent Workspace** to manage the full support ticket lifecycle. It showcases real-world workflows including ticket creation, assignment, prioritization, views, macros, ticket forms, and SLA policies using Zendesk’s **new interface**.
+
+This project is designed to reflect how a Support Agent or Help Desk Technician works in a production environment.
 
 ---
 
-### 1. Agent Workspace Overview
+## 🧰 Tools & Platform
+- Zendesk Agent Workspace (New UI)
+- Ticket Views & Queues
+- Macros & Automation
+- Ticket Forms & Fields
+- Priority-based SLA Policies
+
+---
+
+## 📌 Project Objectives
+- Create and manage support tickets end-to-end
+- Apply priority and ticket forms correctly
+- Use views to manage queues efficiently
+- Respond to customers using public replies
+- Configure and validate SLA targets
+- Document workflows clearly for handoff and audit
+
+---
+
+## 📸 Workflow Walkthrough (Screenshots)
+
+### 1️⃣ Agent Workspace Overview
+Agents manage conversations, ticket fields, and customer context in a single unified workspace.
 ![Agent Workspace Overview](screenshots/01-zendesk-agent-workspace-overview.png)
 
-**What I did:**  
-Worked within Zendesk’s Agent Workspace where tickets, conversations, and customer context are managed in one unified interface.
+---
 
-**Why it matters:**  
-Agent Workspace improves efficiency by reducing context switching and giving agents a single place to manage support workflows.
-
-**Skills demonstrated:**  
-- Zendesk Agent Workspace navigation  
-- Unified ticket management  
+### 2️⃣ Ticket Assigned to Agent
+Ticket is routed and assigned to the appropriate support agent for ownership.
+![Ticket Assigned](screenshots/02-ticket-assigned-to-agent.png)
 
 ---
 
-### 2. Ticket Assigned to Agent
-![Ticket Assigned to Agent](screenshots/02-ticket-assigned-to-agent.png)
-
-**What I did:**  
-Assigned an incoming ticket to myself to establish ownership and responsibility.
-
-**Why it matters:**  
-Proper assignment ensures accountability and prevents tickets from being overlooked.
-
-**Skills demonstrated:**  
-- Ticket ownership  
-- Assignment workflows  
+### 3️⃣ Ticket Type & Priority Set
+Ticket form and priority are set to reflect business impact.
+![Ticket Priority](screenshots/03-ticket-type-and-priority-set.png)
 
 ---
 
-### 3. Ticket Type and Priority Set
-![Ticket Type and Priority Set](screenshots/03-ticket-type-and-priority-set.png)
-
-**What I did:**  
-Set the ticket type and priority level to reflect the severity of the issue.
-
-**Why it matters:**  
-Priority directly affects SLA timers, escalation paths, and response urgency.
-
-**Skills demonstrated:**  
-- Ticket classification  
-- Priority-based workflow management  
+### 4️⃣ Public Reply Added
+Agent sends a customer-facing response to acknowledge and begin troubleshooting.
+![Public Reply](screenshots/04-public-reply-added.png)
 
 ---
 
-### 4. Public Reply Added
-![Public Reply Added](screenshots/04-public-reply-added.png)
-
-**What I did:**  
-Added a professional public response acknowledging the issue and setting expectations with the customer.
-
-**Why it matters:**  
-Clear communication builds trust and meets first-response SLA requirements.
-
-**Skills demonstrated:**  
-- Customer communication  
-- First-response handling  
+### 5️⃣ Ticket Submitted as Open
+Ticket status is updated and officially enters the support queue.
+![Ticket Open](screenshots/05-ticket-submitted-as-open.png)
 
 ---
 
-### 5. Ticket Submitted as Open
-![Ticket Submitted as Open](screenshots/05-ticket-submitted-as-open.png)
-
-**What I did:**  
-Submitted the ticket as **Open** to ensure it remained active and tracked after the initial response.
-
-**Why it matters:**  
-Correct ticket status management keeps workflows accurate and measurable.
-
-**Skills demonstrated:**  
-- Ticket lifecycle management  
-- Status transitions  
+### 6️⃣ Default Views & Queues
+Agents use predefined views to manage workloads efficiently.
+![Views](screenshots/06-views-default-queues.png)
 
 ---
 
-### 6. Default Views and Queues
-![Default Views and Queues](screenshots/06-views-default-queues.png)
-
-**What I did:**  
-Reviewed default Zendesk views used to organize tickets by status, assignment, and priority.
-
-**Why it matters:**  
-Views allow teams to triage and manage ticket volume efficiently.
-
-**Skills demonstrated:**  
-- Queue management  
-- Ticket triage  
+### 7️⃣ New & Unassigned View
+View used to identify tickets requiring assignment.
+![Unassigned Tickets](screenshots/07-view-new-and-unassigned-final.png)
 
 ---
 
-### 7. New and Unassigned Tickets View
-![New and Unassigned Tickets](screenshots/07-view-new-and-unassigned-final.png)
-
-**What I did:**  
-Worked with the **New & Unassigned** view to identify tickets that require agent action.
-
-**Why it matters:**  
-Prevents tickets from sitting unattended and improves response times.
-
-**Skills demonstrated:**  
-- Proactive ticket monitoring  
-- Support queue prioritization  
+### 8️⃣ Macros Page
+Macros are used to standardize responses and speed up resolution.
+![Macros](screenshots/08-macros-page.png)
 
 ---
 
-### 8. Macros Page
-![Macros Page](screenshots/08-macros-page.png)
-
-**What I did:**  
-Accessed Zendesk macros used to standardize and speed up common responses.
-
-**Why it matters:**  
-Macros reduce response time and ensure consistent communication.
-
-**Skills demonstrated:**  
-- Zendesk macros  
-- Workflow efficiency  
+### 9️⃣ Macro Applied – Request More Info
+Agent applies a macro to gather missing customer details.
+![Macro Applied](screenshots/09-macro-request-more-info-new-ui.png)
 
 ---
 
-### 9. Macro Used: Request More Information
-![Macro Request More Information](screenshots/09-macro-request-more-in-info-new-ui.png)
-
-**What I did:**  
-Applied a macro to request additional information from the customer.
-
-**Why it matters:**  
-Ensures agents gather required details quickly without manual typing.
-
-**Skills demonstrated:**  
-- Macro execution  
-- Customer follow-up workflows  
+### 🔟 New Ticket Submitted
+Demonstrates ticket creation from the agent side.
+![New Ticket](screenshots/10-new-ticket-submitted.png)
 
 ---
 
-### 10. New Ticket Submitted
-![New Ticket Submitted](screenshots/10-new-ticket-submitted.png)
-
-**What I did:**  
-Created and submitted a new ticket to validate form behavior and field visibility.
-
-**Why it matters:**  
-Confirms that ticket forms and required fields work as expected.
-
-**Skills demonstrated:**  
-- Ticket creation  
-- Form validation  
+### 1️⃣1️⃣ Editable Ticket Form Enabled
+Ticket fields are configured to allow controlled agent edits.
+![Ticket Form](screenshots/11-ticket-form-editable-enabled.png)
 
 ---
 
-### 11. Ticket Form Editable Enabled
-![Ticket Form Editable Enabled](screenshots/11-ticket-form-editable-enabled.png)
-
-**What I did:**  
-Configured ticket form permissions to control which fields are editable.
-
-**Why it matters:**  
-Prevents incorrect data entry and enforces process consistency.
-
-**Skills demonstrated:**  
-- Ticket form configuration  
-- Field permissions  
+### 1️⃣2️⃣ SLA Policy Configuration
+Priority-based SLA targets are defined to meet response and resolution goals.
+![SLA Setup](screenshots/12-SLA-policy-setup.png)
 
 ---
 
-### 12. SLA Policy Setup
-![SLA Policy Setup](screenshots/12-SLA-policy-setup.png)
-
-**What I did:**  
-Created an SLA policy with priority-based response and resolution targets.
-
-**Why it matters:**  
-SLAs ensure timely support and provide measurable performance standards.
-
-**Skills demonstrated:**  
-- SLA configuration  
-- Priority-based service levels  
+### 1️⃣3️⃣ High Priority Ticket Created
+High-impact incident created to trigger SLA tracking.
+![High Priority Ticket](screenshots/13-Create-Ticket-High-Priority.png)
 
 ---
 
-### 13. High Priority Ticket Created
-![High Priority Ticket Created](screenshots/13-Create-Ticket-High-Priority.png)
-
-**What I did:**  
-Created a high-impact incident ticket to test priority and SLA behavior.
-
-**Why it matters:**  
-Validates that urgent issues trigger appropriate response expectations.
-
-**Skills demonstrated:**  
-- Incident handling  
-- SLA validation  
-
----
-
-### 14. Ticket Response and Ongoing Communication
+### 1️⃣4️⃣ Agent Response Logged
+Agent communication and status updates are recorded in the ticket timeline.
 ![Ticket Response](screenshots/14-ticket-response.png)
 
-**What I did:**  
-Responded to the ticket and continued customer communication while the ticket remained open.
+---
 
-**Why it matters:**  
-Ongoing updates help maintain customer trust and meet SLA update requirements.
+## ✅ Key Skills Demonstrated
+- Zendesk ticket lifecycle management
+- Customer communication & documentation
+- SLA awareness and prioritization
+- Queue and workload management
+- Support process consistency
 
-**Skills demonstrated:**  
-- Customer follow-up  
-- Ticket communication management  
+---
+
+## 📎 Use Case
+This project reflects real-world Help Desk and Technical Support workflows and is intended for recruiters and hiring managers evaluating hands-on Zendesk experience.
+
