@@ -1,6 +1,7 @@
-![Zendesk Agent Workspace](https://raw.githubusercontent.com/peterdelgado92013/zendesk-agent-project/main/assets/zendesk-agent-workspace-header.png)
+![Zendesk Agent Workspace](assets/zendesk-agent-workspace-header.png)
 
 # Zendesk Agent Workspace – Hands-On Support Project
+
 
 This project demonstrates hands-on experience using **Zendesk Agent Workspace (New UI)** to manage the full support ticket lifecycle. It showcases real-world workflows including ticket creation, assignment, prioritization, views & queues, macros, ticket forms, and **priority-based SLA policies**.
 
